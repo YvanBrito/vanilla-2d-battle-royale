@@ -1,0 +1,1 @@
+This is a vanilla JS online battle royale 2d game made for educational purposes only
